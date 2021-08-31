@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cosy Duplex House in Downtown Lisboa",
+    "price": "$90",
+    "id": "1",
+    "coordinates": [-9.135491, 38.7071]
+  },
+  {
+    "name": "Charming Blue Basil House @ Lisbon Center",
+    "price": "$112",
+    "id": "2",
+    "coordinates": [-9.121419, 38.721401]
+  },
+  {
+    "name": "Sunny townhouse with a large terrace",
+    "price": "$75",
+    "id": "3",
+    "coordinates": [-9.128083, 38.721211]
+  }
+]
